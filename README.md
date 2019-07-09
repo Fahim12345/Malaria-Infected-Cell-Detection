@@ -1,5 +1,5 @@
 # Malaria-Infected-Cell-Detection
-Classify malaria infected and uninfected cells, and visualize ConvNet filter's performance.
+Classifying malaria infected and uninfected cells, and visualizing ConvNet filter's performance.
 ## Work Machine
 * Google Colaboratory
 * 12GB NVIDIA Tesla K80 GPU

@@ -204,3 +204,5 @@ plt.show()
 
 [Learn More about Activation Visualization Here](https://towardsdatascience.com/visualizing-intermediate-activation-in-convolutional-neural-networks-with-keras-260b36d60d0)
 
+## Conclusion
+From the visualization of 3 Conv layers and 2 Max Pooling layers, we can analyse the model behaviour. To differentiate Infected cells from Uninfected ones, the model should find spot on the cell, the main feature. Here, Conv Layer 1 is focused on edges; Conv Layer 2 is looking for more distinctive feature, the spot. Final Convolutional layer (Conv 3) has perfectly detected spot on the infected malaria cell. So, we can say that, for this classification task, this shallow CNN model is good enough to identify infected cells and uninfected cells.   
